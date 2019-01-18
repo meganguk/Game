@@ -4,6 +4,9 @@ body {
 	margin-top: 50px;
 	font-family: 'Ubuntu', sans-serif;
 	font-size: 40px;
+	background-image: url("https://images.pexels.com/photos/1249214/pexels-photo-1249214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+	background-image: no-repeat;
+	background-size: cover;
 }
 button {
 	display: inline-block;
